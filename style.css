@@ -1,0 +1,25 @@
+#mainbox {
+    background-color: aquamarine;
+    width: 30%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#keys-box {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.buttons {
+    width: auto;
+    height: 60px;
+    margin: 2px auto;
+}
+.buttons-green {
+    background-color: greenyellow;
+}
+
+.buttons-orange {
+    background-color: orange;
+    
+}
